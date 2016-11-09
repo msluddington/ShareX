@@ -128,6 +128,10 @@ namespace ShareX.UploadersLib
         Pomf,
         [Description("Uguu")]
         Uguu,
+		[Description("notasafe.space")]
+        NotASafeSpace,
+		[Description("LucidBunny")]
+		LucidBunny,
         [Description("Dropfile")]
         Dropfile,
         [Description("Seafile")]
